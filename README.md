@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/go-whale/trade-indicators/badge.svg)](https://coveralls.io/github/go-whale/trade-indicators)
-
 # Trading indicators
 
 Top trading indicators for golang projects
