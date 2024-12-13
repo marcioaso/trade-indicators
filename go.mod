@@ -1,4 +1,4 @@
-module github.com/go-whale/trade-indicators
+module github.com/marcioaso/trade-indicators
 
 go 1.19
 
